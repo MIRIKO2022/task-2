@@ -1,6 +1,5 @@
-# Student Management Console App
+# Student Record Management System
 
-This is a simple Java console-based application that allows users to **Add**, **View**, **Update**, **Delete**, and **Display** student records using an `ArrayList`. It utilizes basic object-oriented programming concepts, control structures, and user input via `Scanner`.
 
 ## Features
 
